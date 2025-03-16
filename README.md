@@ -6,17 +6,17 @@ This project focuses on predicting loan eligibility based on various applicant a
 📂 Dataset
 The dataset contains applicant details such as:
 
-Applicant Income
-Co-applicant Income
-Loan Amount
-Loan Term
-Credit History
-Property Area
+Applicant Income,
+Co-applicant Income,
+Loan Amount,
+Loan Term,
+Credit History,
+Property Area,
 Loan Status (Target Variable)
 
 ⚙️ Technologies Used
-Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-Jupyter Notebook
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn),
+Jupyter Notebook,
 Machine Learning Algorithms (Logistic Regression, Decision Trees, Random Forest, etc.)
 
 📊 Key Steps
@@ -33,9 +33,9 @@ Copy code
 git clone https://github.com/Loan-Eligiblity-Prediction.git
 
 Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+bash,
+Copy code,
+pip install -r requirements.txt,
 Open Jupyter Notebook and run Loan Eligibility Prediction.ipynb.
 
 📈 Results & Insights
