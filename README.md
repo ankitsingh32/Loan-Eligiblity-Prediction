@@ -30,7 +30,7 @@ Predictions & Insights – Generating loan approval predictions for new applican
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/Loan-Eligiblity-Prediction.git
+git clone https://github.com/ankitsingh32/Loan-Eligiblity-Prediction/blob/main/Loan%20Eligiblity%20Prediction%20.ipynb
 
 Install dependencies:
 bash,
