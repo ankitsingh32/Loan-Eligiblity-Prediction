@@ -39,7 +39,7 @@ pip install -r requirements.txt,
 Open Jupyter Notebook and run Loan Eligibility Prediction.ipynb.
 
 📈 Results & Insights
-The model achieves X% accuracy on the test dataset.
+The model achieves 45% accuracy on the test dataset.
 Credit history and income are key factors affecting loan approval.
 
 
